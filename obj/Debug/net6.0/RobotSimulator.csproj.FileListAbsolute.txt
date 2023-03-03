@@ -1,0 +1,15 @@
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.exe
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.deps.json
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.runtimeconfig.json
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.dll
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.pdb
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.csproj.AssemblyReference.cache
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.AssemblyInfoInputs.cache
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.AssemblyInfo.cs
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.dll
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\refint\RobotSimulator.dll
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.pdb
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.genruntimeconfig.cache
+C:\Users\Nazer\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\ref\RobotSimulator.dll
